@@ -1,17 +1,17 @@
 # Learn Python in a Jupyter Notebook instance.
 
-| Modules | Topics | Description |
-|:--:|:--:|:--:|
-| 00 | Introduction | Objectives and overview of this bootcamp |
-| 01 | Vedic Maths | Basic mathematical concepts that you will/may need |
-| 02 | Colab Notebook | How to use jupyter notebook instance provided by google colab |
-| 03 | Python Overview | Basics of python.|
-| 04 | Operations | Basics operations such as conditional, loops, functions and classes. |
-| 05 | Modules | Overview of popular modules such as numpy, pandas, matplotlib and pytorch. |
-| 06 | Programming paradigms | Introduction of functional and object oriented programming |
-| 07 | Fun Projects | We will make some fun projects together. |
-| 08 | AI | Introduction to computational intelligence |
-| 09 | Agent Development | Deep reinforcement learning with human feedback |
+| Modules | Topics | Description | Link |
+|:--:|:--:|:--:| :--: |
+| 00 | Introduction | Objectives and overview of this bootcamp | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/00_Introduction.ipynb) |
+| 01 | Colab Notebook | How to use jupyter notebook instance provided by google colab | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/01_ColabNotebook.ipynb) |
+| 02 | Python Overview | Basics of python.| [Github Link]([https://github.com/mrArpanM/learn-python/blob/main/00_Introduction.ipynb)](https://github.com/mrArpanM/learn-python/blob/main/02_PythonOverview.ipynb) |
+| 03 | Vedic Maths | Basic mathematical concepts that you will/may need | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/03_VedicMaths.ipynb) |
+| 04 | Operations | Basics operations such as conditional, loops, functions and classes. | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/04_Operations.ipynb) |
+| 05 | Modules | Overview of popular modules such as numpy, pandas, matplotlib and pytorch. | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/05_Modules.ipynb) |
+| 06 | Programming paradigms | Introduction of functional and object oriented programming | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
+| 07 | Fun Projects | We will make some fun projects together. | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
+| 08 | AI | Introduction to computational intelligence | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
+| 09 | Agent Development | Deep reinforcement learning with human feedback | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
 
 ## Objectives:
 
