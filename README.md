@@ -2,16 +2,16 @@
 
 | Modules | Topics | Description | Link |
 |:--:|:--:|:--:| :--: |
-| 00 | Introduction | Objectives and overview of this bootcamp | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/00_Introduction.ipynb) |
-| 01 | Colab Notebook | How to use jupyter notebook instance provided by google colab | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/01_ColabNotebook.ipynb) |
-| 02 | Python Overview | Basics of python.| [Github Link](https://github.com/mrArpanM/learn-python/blob/main/02_PythonOverview.ipynb) |
-| 03 | Vedic Maths | Basic mathematical concepts that you will/may need | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/03_VedicMaths.ipynb) |
-| 04 | Operations | Basics operations such as conditional, loops, functions and classes. | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/04_Operations.ipynb) |
-| 05 | Modules | Overview of popular modules such as numpy, pandas, matplotlib and pytorch. | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/05_Modules.ipynb) |
-| 06 | Programming paradigms | Introduction of functional and object oriented programming | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
-| 07 | Fun Projects | We will make some fun projects together. | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
-| 08 | AI | Introduction to computational intelligence | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
-| 09 | Agent Development | Deep reinforcement learning with human feedback | [Github Link](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) |
+| 00 | Introduction | Objectives and overview of this bootcamp | [Github](https://github.com/mrArpanM/learn-python/blob/main/00_Introduction.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/0_Introduction.ipynb) |
+| 01 | Colab Notebook | How to use jupyter notebook instance provided by google colab | [Github](https://github.com/mrArpanM/learn-python/blob/main/01_ColabNotebook.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/01_ColabNotebook.ipynb)|
+| 02 | Python Overview | Basics of python.| [Github](https://github.com/mrArpanM/learn-python/blob/main/02_PythonOverview.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/02_PythonOverview.ipynb)|
+| 03 | Vedic Maths | Basic mathematical concepts that you will/may need | [Github](https://github.com/mrArpanM/learn-python/blob/main/03_VedicMaths.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/03_VedicMaths.ipynb) |
+| 04 | Operations | Basics operations such as conditional, loops, functions and classes. | [Github](https://github.com/mrArpanM/learn-python/blob/main/04_Operations.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/) |
+| 05 | Modules | Overview of popular modules such as numpy, pandas, matplotlib and pytorch. | [Github](https://github.com/mrArpanM/learn-python/blob/main/05_Modules.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/) |
+| 06 | Programming paradigms | Introduction of functional and object oriented programming | [Github](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/) |
+| 07 | Fun Projects | We will make some fun projects together. | [Github](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/) |
+| 08 | AI | Introduction to computational intelligence | [Github](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/) |
+| 09 | Agent Development | Deep reinforcement learning with human feedback | [Github](https://github.com/mrArpanM/learn-python/blob/main/0.ipynb) - [Colab](https://colab.research.google.com/github/mrArpanM/learn-python/blob/main/) |
 
 ## Objectives:
 
